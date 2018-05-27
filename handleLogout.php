@@ -1,5 +1,5 @@
 <?php
-    include 'database.php';
+    include 'include/bootstrap.php';
     session_start();
     $_SESSION = array();
     session_destroy();    

@@ -37,6 +37,6 @@ function checkEmail() {
         }
     }
 
-    alert("Du måste ange en giltg email!")
+    alert("Du måste ange en giltig email!")
     return false;
 }
